@@ -6,36 +6,32 @@ This repository contains the source code used for the **technical validation** o
 
 ## 📚 Citation
 
-If you use this repository, please cite:
+If you use this repository, please cite the following publications.
 
-**Dataset Paper**
-
-> Abdulmahmod, O. F., Al-antari, M. A., Kwon, H., *et al.* **Medical Spine Sagittal MRI Dataset for Segmentation and Foraminal Stenosis Detection.** *Scientific Data*, **13**, 809 (2026). https://doi.org/10.1038/s41597-026-07138-x
+### Dataset Paper
 
 ```bibtex
 @article{Abdulmahmod2026SciData,
-  title={Medical Spine Sagittal MRI Dataset for Segmentation and Foraminal Stenosis Detection},
-  author={Abdulmahmod, Osamah F. and Al-antari, Mugahed A. and Kwon, Hyunwook and others},
-  journal={Scientific Data},
-  volume={13},
-  pages={809},
-  year={2026},
-  doi={10.1038/s41597-026-07138-x}
+  author  = {Abdulmahmod, Osamah F. and Al-antari, Mugahed A. and Kwon, Hyunwook and Habib, Afnan and Han, Inbo and others},
+  title   = {Medical Spine Sagittal MRI Dataset for Segmentation and Foraminal Stenosis Detection},
+  journal = {Scientific Data},
+  volume  = {13},
+  pages    = {809},
+  year     = {2026},
+  doi      = {10.1038/s41597-026-07138-x}
 }
 ```
 
-**Review Paper**
-
-> Al-Antari, M. A., Salem, S., Raza, M., Elbadawy, A. S., Bütün, E., Aydin, A. A., Aydoğan, M., Ertuğrul, B., Talo, M., & Gu, Y. H. **Evaluating AI-powered Predictive Solutions for MRI in Lumbar Spinal Stenosis: A Systematic Review.** *Artificial Intelligence Review*, **58**(8), 221 (2025).
+### Review Paper
 
 ```bibtex
 @article{AlAntari2025AIR,
-  title={Evaluating AI-powered Predictive Solutions for MRI in Lumbar Spinal Stenosis: A Systematic Review},
-  author={Al-Antari, Mugahed A. and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S. and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
-  journal={Artificial Intelligence Review},
-  volume={58},
-  number={8},
-  pages={221},
-  year={2025}
+  author  = {Al-Antari, Mugahed A. and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S. and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
+  title   = {Evaluating AI-powered Predictive Solutions for MRI in Lumbar Spinal Stenosis: A Systematic Review},
+  journal = {Artificial Intelligence Review},
+  volume  = {58},
+  number  = {8},
+  pages   = {221},
+  year    = {2025}
 }
 ```
