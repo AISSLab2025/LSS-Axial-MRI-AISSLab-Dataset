@@ -8,8 +8,6 @@ This repository contains the source code used for the **technical validation** o
 
 If you use this repository, please cite the following publications.
 
-### Dataset Paper
-
 ```bibtex
 @article{Abdulmahmod2026SciData,
   author  = {Abdulmahmod, Osamah F. and Al-antari, Mugahed A. and Kwon, Hyunwook and Habib, Afnan and Han, Inbo and others},
@@ -21,9 +19,6 @@ If you use this repository, please cite the following publications.
   doi      = {10.1038/s41597-026-07138-x}
 }
 ```
-
-### Review Paper
-
 ```bibtex
 @article{AlAntari2025AIR,
   author  = {Al-Antari, Mugahed A. and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S. and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
