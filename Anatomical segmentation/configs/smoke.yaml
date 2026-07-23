@@ -1,0 +1,24 @@
+seed: 42
+device: "auto"
+output_dir: "outputs"
+
+model:
+  in_channels: 1
+  out_channels: 4
+  img_size: [224, 224]
+# C:\Users\USER\Desktop\segmentation\processed_Axial
+data:
+  train_dir: "/mnt/c/Users/USER/Desktop/segmentation/processed_Axial/train"
+  val_dir: "/mnt/c/Users/USER/Desktop/segmentation/processed_Axial/val"
+  test_dir: "/mnt/c/Users/USER/Desktop/segmentation/processed_Axial/test"
+  image_key: "image"
+  mask_key: "mask"
+  size: 224
+  num_workers: 0
+
+train:
+  epochs: 50
+  batch_size: 8
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  threshold: 0.5
