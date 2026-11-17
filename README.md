@@ -21,6 +21,12 @@ This repository contains the source code used for the **technical validation** o
 
 
 
+### 🖼️ Anatomical Segmentation Results
+
+<p align="center">
+  <img src="Segmentation_Results/Picture1.png" alt="Anatomical Segmentation Results" width="850">
+</p>
+
 
 
 ## 📚 Citation
